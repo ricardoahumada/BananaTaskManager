@@ -1,4 +1,4 @@
-package es.bit.BananaTaskManager;
+package com.banana.BananaTaskManager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package es.bit.BananaTaskManager.persistence;
+package com.banana.BananaTaskManager.persistence;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,9 +8,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 
-import es.bit.BananaTaskManager.models.Project;
-import es.bit.BananaTaskManager.models.Task;
-import es.bit.BananaTaskManager.models.User;
+import com.banana.BananaTaskManager.models.Project;
+import com.banana.BananaTaskManager.models.Task;
+import com.banana.BananaTaskManager.models.User;
 
 public class InMemoryRepository {
 	private List<User> userData = new ArrayList<>(Arrays.asList(

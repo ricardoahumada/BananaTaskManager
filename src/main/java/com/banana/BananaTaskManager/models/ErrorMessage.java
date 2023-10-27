@@ -1,4 +1,4 @@
-package es.bit.BananaTaskManager.models;
+package com.banana.BananaTaskManager.models;
 
 import lombok.Builder;
 import lombok.Data;

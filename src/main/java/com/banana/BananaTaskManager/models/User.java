@@ -1,6 +1,6 @@
-package es.bit.BananaTaskManager.models;
+package com.banana.BananaTaskManager.models;
 
-import es.bit.BananaTaskManager.persistence.InMemoryRepository;
+import com.banana.BananaTaskManager.persistence.InMemoryRepository;
 import lombok.*;
 
 import javax.validation.constraints.Null;

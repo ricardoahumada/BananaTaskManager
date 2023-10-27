@@ -1,10 +1,10 @@
-package es.bit.BananaTaskManager.api;
+package com.banana.BananaTaskManager.api;
 
-import es.bit.BananaTaskManager.models.ErrorMessage;
-import es.bit.BananaTaskManager.models.Project;
-import es.bit.BananaTaskManager.models.Task;
-import es.bit.BananaTaskManager.models.User;
-import es.bit.BananaTaskManager.persistence.InMemoryRepository;
+import com.banana.BananaTaskManager.models.ErrorMessage;
+import com.banana.BananaTaskManager.models.Project;
+import com.banana.BananaTaskManager.models.Task;
+import com.banana.BananaTaskManager.models.User;
+import com.banana.BananaTaskManager.persistence.InMemoryRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

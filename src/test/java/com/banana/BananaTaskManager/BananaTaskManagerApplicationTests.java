@@ -1,4 +1,4 @@
-package es.bit.BananaTaskManager;
+package com.banana.BananaTaskManager;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
